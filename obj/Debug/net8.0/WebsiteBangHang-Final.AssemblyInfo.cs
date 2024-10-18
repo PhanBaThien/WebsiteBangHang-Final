@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebsiteBangHang-Final")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9cf236ffcd118556c4e3cea5cd14d0f95b4f440")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebsiteBangHang-Final")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebsiteBangHang-Final")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

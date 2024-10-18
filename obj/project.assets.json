@@ -4174,11 +4174,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phanb\\source\\repos\\WebsiteBangHang-Final\\WebsiteBangHang-Final.csproj",
+      "projectUniqueName": "C:\\Users\\phanb\\OneDrive\\Documents\\GitHub\\WebsiteBangHang-Final\\WebsiteBangHang-Final.csproj",
       "projectName": "WebsiteBangHang-Final",
-      "projectPath": "C:\\Users\\phanb\\source\\repos\\WebsiteBangHang-Final\\WebsiteBangHang-Final.csproj",
+      "projectPath": "C:\\Users\\phanb\\OneDrive\\Documents\\GitHub\\WebsiteBangHang-Final\\WebsiteBangHang-Final.csproj",
       "packagesPath": "C:\\Users\\phanb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\phanb\\source\\repos\\WebsiteBangHang-Final\\obj\\",
+      "outputPath": "C:\\Users\\phanb\\OneDrive\\Documents\\GitHub\\WebsiteBangHang-Final\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

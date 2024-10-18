@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MWrtdZpIzyU=",
+  "dgSpecHash": "HEUaPveKe3g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\phanb\\source\\repos\\WebsiteBangHang-Final\\WebsiteBangHang-Final.csproj",
+  "projectFilePath": "C:\\Users\\phanb\\OneDrive\\Documents\\GitHub\\WebsiteBangHang-Final\\WebsiteBangHang-Final.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phanb\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\phanb\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
